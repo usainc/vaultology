@@ -1,0 +1,5 @@
+{
+  "name": "Vaultology",
+  "description": "A client-side application to help you securely store and recover your master password using a security question. Data is encrypted and stored locally in your browser.",
+  "requestFramePermissions": []
+}
