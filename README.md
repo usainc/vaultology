@@ -19,7 +19,7 @@ Designed for minimalists, privacy advocates, and developers who want a clean and
 
 ## 📸 Screenshots
 
-> *![image](https://github.com/user-attachments/assets/1e1d6d24-383f-4d46-ad36-bc54befe9ea9
+> *![image](https://github.com/user-attachments/assets/1e1d6d24-383f-4d46-ad36-bc54befe9ea9)
 
 
 ---
